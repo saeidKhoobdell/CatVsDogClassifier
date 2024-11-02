@@ -1,0 +1,8 @@
+# Ignore the Data directory and its contents
+Data/
+
+# Ignore the lightning_logs directory and its contents
+lightning_logs/
+
+# Ignore the cats_vs_dogs_10_epochs file
+cats_vs_dogs_10_epochs.pth
